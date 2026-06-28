@@ -1,0 +1,8 @@
+transformers>=4.30.0
+torch
+pillow
+requests
+opencv-python
+pandas
+numpy
+scikit-learn
